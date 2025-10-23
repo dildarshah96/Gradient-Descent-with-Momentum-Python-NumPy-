@@ -35,8 +35,9 @@ Install dependencies (if running locally):
 
 ```bash
 pip install numpy matplotlib
+```
 ▶️ Run the Code
----
+
 python gradient_descent_momentum.py
 ---
 
