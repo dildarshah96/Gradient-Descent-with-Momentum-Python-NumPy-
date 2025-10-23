@@ -39,7 +39,7 @@ pip install numpy matplotlib
 ▶️ Run the Code
 
 python gradient_descent_momentum.py
----
+
 
 📊 Output
 >0 f([0.466]) = 0.217
